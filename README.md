@@ -31,3 +31,5 @@ If you find our data useful, please cite
   > Nikolai Ilinykh, Sina Zarrieß, David Schlangen (2019): Tell Me More: A Dataset of Visual Scene Description Sequences. In Proceedings of the 12th International Conference on Natural Language Generation, Tokyo, October-November 2019
 
 This paper can be found [here](papers/inlg19_short.pdf).
+
+If you want to use a short name for this corpus in your paper, please use IDS-ADE (for "image description sequences, for the ADE20k corpus").
