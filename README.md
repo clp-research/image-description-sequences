@@ -1,5 +1,5 @@
-# image-description-sequences
-We present the dataset of _description sequences_, a set of expressions that collectively are meant to single out one image from an (imagined) set of other similar images. These sequences were produced in a monological setting, but with the instruction to imagine they were provided to a partner who successively asked for more information (hence, *tell me more*). The example of such sequence is given below:
+# "tell me more": a corpus of image description sequences
+We present a dataset of _description sequences_, a sequence of expressions that together are meant to single out one image from an (imagined) set of other similar images. These sequences were produced in a monological setting, but with the instruction to imagine they were provided to a partner who successively asked for more information (hence, *tell me more*). The example of such sequence is given below:
 
 ![sequence](sequence_example.jpg)
 
