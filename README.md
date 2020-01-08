@@ -16,7 +16,7 @@ We present a dataset of _description sequences_, a sequence of expressions that 
 ```
 ```sequences.csv``` contains the dataset of description sequences. It has the following columns:
 - ```seq_id```: unique id of the sequence
-- ```image_id```: id of the image ()
+- ```image_id```: id of the image
 - ```image_path```: path to the image, starting from the directory with all ADE20k images
 - ```image_cat```: type of the image
 - ```image_subcat```: image subtype, if present (`outdoor`, for example)
