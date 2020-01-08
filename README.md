@@ -30,6 +30,6 @@ We present a dataset of _description sequences_, a sequence of expressions that 
 If you find our data useful, please cite
   > [Nikolai Ilinykh, Sina Zarrieß, and David Schlangen. 2019. Tell me more: A dataset of visual scene description sequences. In Proceedings of the 12th International Conference on Natural Language Generation, pages 152–157, Tokyo, Japan. Association for Computational Linguistics](https://www.aclweb.org/anthology/W19-8621.pdf)
 
-This paper can be found [here](papers/inlg19_short.pdf).
+This paper can be also found [here](papers/inlg19_short.pdf).
 
 If you want to use a short name for this corpus in your paper, please use IDS-ADE (for "image description sequences, for the ADE20k corpus").
