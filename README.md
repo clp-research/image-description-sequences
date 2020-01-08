@@ -28,7 +28,7 @@ We present a dataset of _description sequences_, a sequence of expressions that 
 
 ## Citation
 If you find our data useful, please cite
-  > Nikolai Ilinykh, Sina Zarrieß, David Schlangen (2019): Tell Me More: A Dataset of Visual Scene Description Sequences. In Proceedings of the 12th International Conference on Natural Language Generation, Tokyo, October-November 2019
+  > [Nikolai Ilinykh, Sina Zarrieß, and David Schlangen. 2019. Tell me more: A dataset of visual scene description sequences. In Proceedings of the 12th International Conference on Natural Language Generation, pages 152–157, Tokyo, Japan. Association for Computational Linguistics](https://www.aclweb.org/anthology/W19-8621.pdf)
 
 This paper can be found [here](papers/inlg19_short.pdf).
 
