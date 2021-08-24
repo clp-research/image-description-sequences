@@ -1,0 +1,2 @@
+The captions in the file captions.csv from line 413 to line 823 (caption IDs 411 to 821) were added in June 2021.
+They were collected by a team of students who needed to evaluate a caption generator for this dataset. The additional captions are alternative descriptions to captions with IDs 0 to 410.
